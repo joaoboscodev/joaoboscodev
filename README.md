@@ -1,1 +1,1 @@
-# Olá, eu sou o João Bosco
+# Olá! Eu sou o João Bosco
