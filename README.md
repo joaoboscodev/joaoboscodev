@@ -1,6 +1,12 @@
  <h1 align='center'>🌊 Olá, eu sou o João Bosco</h1>
  
- teste
+ 🇧🇷
+ 
+- 💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).
+
+🇺🇸
+
+- 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
 
 ## 📚 Habilidades / Skills
 <div style="display: inline_block"><br>
