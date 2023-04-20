@@ -2,11 +2,11 @@
  
 🇧🇷
  
-- 👨‍💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).
+- 👨‍💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
 🇺🇸
 
-- 👨‍💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
+- 👨‍💻 I'm studying web development at [Trybe](https://www.betrybe.com/)
 
 ## 📚 Habilidades / Skills
 <div style="display: inline_block"><br>
