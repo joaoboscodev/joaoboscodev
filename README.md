@@ -15,7 +15,7 @@
   <img align='center' alt='joaobosco-CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='joaobosco-Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
   <img align='center' alt='joaobosco-Jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
-
+  <img align='center' alt='joaobosco-Jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
   
 </div>
 
