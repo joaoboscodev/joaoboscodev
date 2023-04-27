@@ -15,7 +15,6 @@
   <img align='center' alt='joaobosco-CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='joaobosco-Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
   <img align='center' alt='joaobosco-Jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
-  <img align='center' alt='joaobosco-Redux'  src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'>
  <img align='center' alt='joaobosco-React Router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
  <img align='center' alt='Testing-Library' src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red'>
   
