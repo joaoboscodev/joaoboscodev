@@ -24,6 +24,7 @@
 
 ## 🌱 Aprendendo / Learning
 <div style="display: inline_block"><br>
+ <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' alt'Docker'/>
  
   
 </div>
