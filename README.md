@@ -41,7 +41,7 @@
 
 ## 📊 Status
 
-| <a href="https://github.com/joaoboscodev"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoboscochagaspanzera&theme=tokyonight&hide_border=true)" alt="joaobosco's github stats" /></a>
+| <a href="https://github.com/joaoboscodev"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoboscodev&theme=tokyonight&hide_border=true)" alt="joaobosco's github stats" /></a>
 | ------------- |
     
  ## ✉️ Contato / Contact
