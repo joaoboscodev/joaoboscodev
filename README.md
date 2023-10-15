@@ -1,4 +1,6 @@
  <h1 align='center'>👾 Olá, eu sou o João Bosco 👾</h1>
+
+ Portfólio/Blog: https://joaoboscodev.com/
  
 🇧🇷
  
