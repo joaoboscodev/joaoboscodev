@@ -1,14 +1,17 @@
- <h1 align='center'>👾 Olá, eu sou o João Bosco 👾</h1>
+ <h1 align='center'>👾 Hi, i'm João Bosco 👾</h1>
 
- Portfólio/Blog: https://joaoboscodev.com/
+Portfolio/Blog: https://joaoboscodev.com/
  
 🇧🇷
- 
-- 👨‍💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
+- 👨‍💻 Atualmente trabalho na Nacif software development
+- 🏫 Também atuo como professor de pensamento computacional no Colégio Eccellente
+- 🎓 Formado em desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
 🇺🇸
 
-- 👨‍💻 I'm studying web development at [Trybe](https://www.betrybe.com/)
+- 👨‍💻 I currently work at Nacif software development
+- 🏫 I also work as a computational thinking teacher at Colégio Eccellente
+- 🎓 Graduated in web development at [Trybe](https://www.betrybe.com/)
 
 ## 📚 Habilidades / Skills
 
