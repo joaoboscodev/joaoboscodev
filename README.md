@@ -3,14 +3,14 @@
 Portfolio/Blog: https://joaoboscodev.com/
  
 🇧🇷
-- 👨‍💻 Atualmente trabalho na Nacif software development [Nacif](https://nacif.xyz/)
-- 🏫 Também atuo como professor de pensamento computacional no Colégio Eccellente [Eccellente](https://eccellente.com.br/)
+- 👨‍💻 Atualmente trabalho na [Nacif software development](https://nacif.xyz/)
+- 🏫 Também atuo como professor de pensamento computacional no [Colégio Eccellente](https://eccellente.com.br/)
 - 🎓 Formado em desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
 🇺🇸
 
-- 👨‍💻 I currently work at Nacif software development [Nacif](https://nacif.xyz/)
-- 🏫 I also work as a computational thinking teacher at Colégio Eccellente [Eccellente](https://eccellente.com.br/)
+- 👨‍💻 I currently work at [Nacif software development](https://nacif.xyz/)
+- 🏫 I also work as a computational thinking teacher at [Colégio Eccellente](https://eccellente.com.br/)
 - 🎓 Graduated in web development at [Trybe](https://www.betrybe.com/)
 
 ## 📚 Habilidades / Skills
