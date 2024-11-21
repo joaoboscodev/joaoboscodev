@@ -1,6 +1,4 @@
  <h1 align='center'>👾 Hi, i'm João Bosco 👾</h1>
-
-Portfolio/Blog: https://joaoboscodev.com/
  
 🇧🇷
 - 👨‍💻 Atualmente trabalho na [Nacif software development](https://nacif.xyz/)
