@@ -2,13 +2,11 @@
  
 🇧🇷
 - 👨‍💻 Atualmente trabalho na [Nacif software development](https://nacif.xyz/)
-- 🏫 Também atuo como professor de pensamento computacional no [Colégio Eccellente](https://eccellente.com.br/)
 - 🎓 Formado em desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
 🇺🇸
 
 - 👨‍💻 I currently work at [Nacif software development](https://nacif.xyz/)
-- 🏫 I also work as a computational thinking teacher at [Colégio Eccellente](https://eccellente.com.br/)
 - 🎓 Graduated in web development at [Trybe](https://www.betrybe.com/)
 
 ## 📚 Principais Habilidades / Main Skills
